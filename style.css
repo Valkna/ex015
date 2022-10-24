@@ -1,0 +1,12 @@
+body {
+    background-color: aliceblue;
+    font: 20px Arial;
+}
+
+div#res {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    line-height: 60px;
+}
+
